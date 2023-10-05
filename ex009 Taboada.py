@@ -1,0 +1,17 @@
+num = int(input('Digite um número: '))
+
+print('A taboada do {} é:'.format(num))
+
+print('{} x 1 = {}'.format(num, num*0 ))
+print('{} x 1 = {}'.format(num, num*1 ))
+print('{} x 1 = {}'.format(num, num*2 ))
+print('{} x 1 = {}'.format(num, num*3 ))
+print('{} x 1 = {}'.format(num, num*4 ))
+print('{} x 1 = {}'.format(num, num*5 ))
+print('{} x 1 = {}'.format(num, num*6 ))
+print('{} x 1 = {}'.format(num, num*7 ))
+print('{} x 1 = {}'.format(num, num*8 ))
+print('{} x 1 = {}'.format(num, num*9 ))
+print('{} x 1 = {}'.format(num, num*10 ))
+print('{} x 1 = {}'.format(num, num*11))
+print('{} x 1 = {}'.format(num, num*12 ))
